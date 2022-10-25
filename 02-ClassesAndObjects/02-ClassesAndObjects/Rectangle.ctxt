@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ A\ class\ representing\ bank\ account\ with\ five\ attributes\ and\ three\ behaviors\r\n
+comment1.params=
+comment1.target=void\ displayInfo()
+numComments=2

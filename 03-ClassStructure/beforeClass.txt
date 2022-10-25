@@ -1,0 +1,15 @@
+Pola statyczne należą do klasy a nie do konkretnego obiektu. Nawet gdy nie istnieje żaden obiekt danej klasy to możemy odwołać się do pola statycznego
+Metody statyczne można uruchomić bez utworzenia obiektu, na pyrzkład metoda main(), nie jest potrzebny żaden obiekt by móc ja uruchomić
+
+Funkcja Main() zaczyna program, znajduje się w klasie, ale pod konstruktorem i metodami?
+
+Konstruktor to specjalna metoda inicjalizująca obiekty, konstruktor jest używany kiedy tworzymy obiekt danej klasy
+
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+int[] myNum = {10, 20, 30, 40};
+
+typZmiennej[] nazwa = {"element1", "element2"};
+nazwa[0]
+nazwa.length
+
+Method Overloading - gdy dwie lub więcej zmiennych mają tą samą nazwę, lecz inne ilości arguemntów lub inne typy zmiennych argumentów. używamy tego gdy nie medoda ma przyjmować różne ilości argumentów lub różne typy zmiennych. Zostanie użyta odpowiednia metoda do ilości lub typu zmiennych 

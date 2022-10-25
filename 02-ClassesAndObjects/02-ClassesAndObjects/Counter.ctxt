@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ A\ class\ representing\ bank\ account\ with\ five\ attributes\ and\ three\ behaviors\r\n
+comment1.params=
+comment1.target=void\ plusOne()
+comment2.params=
+comment2.target=void\ minusOne()
+comment3.params=
+comment3.target=void\ plusTen()
+comment4.params=
+comment4.target=void\ minusTen()
+comment5.params=
+comment5.target=void\ reset()
+numComments=6

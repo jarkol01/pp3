@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Smartphone
+comment0.text=\r\n\ A\ class\ representing\ smartphone\ with\ five\ attributes\ and\ three\ behaviors\r\n
+comment1.params=
+comment1.target=void\ cameraInfo()
+comment2.params=
+comment2.target=void\ priceInfo()
+comment3.params=
+comment3.target=void\ displayInfo()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
