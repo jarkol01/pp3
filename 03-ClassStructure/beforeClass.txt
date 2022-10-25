@@ -12,4 +12,4 @@ typZmiennej[] nazwa = {"element1", "element2"};
 nazwa[0]
 nazwa.length
 
-Method Overloading - gdy dwie lub więcej zmiennych mają tą samą nazwę, lecz inne ilości arguemntów lub inne typy zmiennych argumentów. używamy tego gdy nie medoda ma przyjmować różne ilości argumentów lub różne typy zmiennych. Zostanie użyta odpowiednia metoda do ilości lub typu zmiennych 
+Method Overloading - gdy dwie lub więcej metod mają tą samą nazwę, lecz inne ilości arguemntów lub inne typy zmiennych argumentów. używamy tego gdy nie medoda ma przyjmować różne ilości argumentów lub różne typy zmiennych. Zostanie użyta odpowiednia metoda do ilości lub typu zmiennych 
