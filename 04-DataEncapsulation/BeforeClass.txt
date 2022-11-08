@@ -1,0 +1,10 @@
+data encapsulation - znany również jako ukrywanie danych, jest mechanizmem, dzięki któremu szczegóły implementacji klasy są ukrywane przed użytkownikiem, by uzyskać dostęp do danych trzeba użyć metod nazwanych getters and setters.
+
+private - ograniczamy dostęp tylko do klasy w której znajduje się wskazany element
+domyślny (package private) - element widoczny będzie tylko w ramach tego samego pakietu
+protected - widoczne są w ramach tego samego pakietu, oraz dodatkowo w klasach dziedziczących, które mogą się znajdować w innych pakietach
+public - można się odwoływać z dowolnego innego pakietu w ramach projektu lub poza nim
+
+określamy te modyfikatory podczas definiowania
+
+getters setters - specjalne metody służące do dostępu do ukrytych atrybutów

@@ -28,7 +28,7 @@ public class CinemaTicket
         CinemaTicket.CinemaName = "Morning Star Cinema";
         
         CinemaTicket t1 = new CinemaTicket("Gladiator", 2, 31);
-        CinemaTicket t2 = new CinemaTicket("Gladiator", 7, 2);
+        CinemaTicket t2 = new CinemaTicket("Gladiator", 7, 31);
         
         t1.displayInfo();
         t2.displayInfo();
